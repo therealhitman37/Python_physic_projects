@@ -1,0 +1,3 @@
+# Python_physic_projects
+
+As a student studying machine engineering, I am constantly working on various projects in Python. I am always looking for ways to improve my skills and gain practical experience, so I have decided to upload some of my projects to GitHub. These projects involve concepts from physics, such as the movement of a pendulum and the calculation of drag force. I believe that by sharing my projects on GitHub, I can not only showcase my skills to potential employers, but also receive feedback and guidance from the community. I am excited to see where this journey takes me and am looking forward to learning from others as I continue to grow as an engineer.
